@@ -1,0 +1,5 @@
+
+transaction_id,date,description,amount
+V001,2026-08-01,Invoice 1001,5000
+V002,2026-08-03,Invoice 1002,3000
+V003,2026-08-05,Invoice 1003,2500
